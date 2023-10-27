@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/aop https://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!--    开启注解扫描-->
+    <context:component-scan base-package="cn.nenu"></context:component-scan>
+
+
+
+    <!--    注册两个账户-->
+    <bean id="account1" class="cn.nenu.model.Account">
+        <property name="accountId" value="1"></property>
+        <property name="name" value="lisa"></property>
+        <property name="balance" value="100"></property>
+    </bean>
+    <bean id="account2" class="cn.nenu.model.Account">
+        <property name="accountId" value="2"></property>
+        <property name="name" value="bob"></property>
+        <property name="balance" value="150"></property>
+    </bean>
+
+
+
+    <!--    基于注解的aop实现-->
+    <!--启用自动代理,自动为切面方法中匹配的方法所在的类生成代理对象-->
+    <!--    <aop:aspectj-autoproxy proxy-target-class="true"></aop:aspectj-autoproxy>-->
+
+    <!--    基于xml的aop实现-->
+    <bean id="aspect2" class="cn.nenu.model.Aspect2"></bean>
+    <aop:config>
+        <!--配置切入点-->
+        <aop:pointcut id="pointcut" expression="execution(* cn.nenu.service.AccountService.depositAmount(..))"/>
+        <!--配置切入点-->
+        <aop:pointcut id="pointcut1" expression="execution(* cn.nenu.service.AccountService.*(..))"/>
+        <!-- 定义切面-->
+        <aop:aspect ref="aspect2">
+            <!--  定义通知-->
+            <aop:before method="printDepositMoney" pointcut-ref="pointcut"></aop:before>
+            <aop:after method="log" pointcut-ref="pointcut1"></aop:after>
+            <aop:after-returning method="printBalance" returning="account"
+                                 pointcut-ref="pointcut1"></aop:after-returning>
+        </aop:aspect>
+    </aop:config>
+
+</beans>

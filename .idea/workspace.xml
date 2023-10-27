@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f8fee68-cb06-43d3-b1fb-021ae90fccad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\application\maven\maven-repository" />
+        <option name="userSettingsFile" value="D:\application\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lECtVPYMgruER3Ic8WevurxaLJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/cn/nenu/dao" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\download\Desktop\account\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.nenu.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\download\Desktop\account\src\main\java\cn\nenu\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountTest.run1">
+    <configuration name="AccountTest.run1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="METHOD_NAME" value="run1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.run2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="METHOD_NAME" value="run2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.run3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="METHOD_NAME" value="run3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.run4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="METHOD_NAME" value="run4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountTest.run1" />
+        <item itemvalue="JUnit.AccountTest.run4" />
+        <item itemvalue="JUnit.AccountTest.run3" />
+        <item itemvalue="JUnit.AccountTest.run2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f8fee68-cb06-43d3-b1fb-021ae90fccad" name="Default Changelist" comment="" />
+      <created>1607153078081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607153078081</updated>
+      <workItem from="1607153082119" duration="9065000" />
+      <workItem from="1607168678679" duration="324000" />
+      <workItem from="1607336697393" duration="903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1607153146644">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1607153146644" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1607154212391">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1607154212391" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607153700460">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1607153700460" />
+    <state width="1237" height="406" key="GridCell.Tab.0.bottom" timestamp="1607169006330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="406" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607169006330" />
+    <state width="1237" height="406" key="GridCell.Tab.0.center" timestamp="1607169006329">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="406" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607169006329" />
+    <state width="1237" height="406" key="GridCell.Tab.0.left" timestamp="1607169006329">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="406" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607169006329" />
+    <state width="1237" height="406" key="GridCell.Tab.0.right" timestamp="1607169006329">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="406" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607169006329" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1607162197037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607162197037" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1607162197036">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1607162197036" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1607162197036">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1607162197036" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1607162197037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1607162197037" />
+    <state x="438" y="118" key="chooseDestDirectoryDialog" timestamp="1607168734061">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="118" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1607168734061" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1607336697887">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1607336697887" />
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607157656936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1607157656936" />
+    <state x="28" y="42" key="new project wizard" timestamp="1607336761797">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="42" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1607336761797" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1607160963442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1607160963442" />
+    <state x="321" y="23" key="spring file set editor" timestamp="1607154025321">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="23" key="spring file set editor/0.0.1280.680@0.0.1280.680" timestamp="1607154025320" />
+  </component>
+</project>
