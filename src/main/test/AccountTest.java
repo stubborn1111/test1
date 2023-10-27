@@ -29,6 +29,7 @@ public class AccountTest {
         System.out.println("account2:" + account2);
         int money = 20;
         accountController.withdraw(account2, money);
+        System.out.println("test11111111");
     }
 
     //dao层测试
